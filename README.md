@@ -20,5 +20,8 @@ A simple temperature converter web application that allows users to convert temp
 - `script.js`: Contains the JavaScript logic for the temperature conversion.
 - `README.md`: This file provides information about the project.
 
+## Demo
+You can see the demo here: (https://itz-sidra.github.io/Temperature_Convertor/)
+
 ## License
 This project is currently not licensed.
